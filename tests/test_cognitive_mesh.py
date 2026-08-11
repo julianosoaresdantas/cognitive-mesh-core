@@ -4,7 +4,7 @@ import unittest
 class TestCognitiveMeshEcosystem(unittest.TestCase):
     
     def test_workspace_modules_existence(self):
-        """Valida a presença de todos os módulos essenciais da vanguarda no diretório src/"""
+        """Valida a presença de todos os 11 módulos essenciais no diretório src/"""
         required_modules = [
             "cognitive_mesh_engine.py",
             "post_quantum_tunnel.py",
@@ -16,7 +16,8 @@ class TestCognitiveMeshEcosystem(unittest.TestCase):
             "hyperdimensional_core.py",
             "singularity_core.py",
             "omega_singularity_mesh.py",
-            "telemetry_observer_core.py"
+            "telemetry_observer_core.py",
+            "hyper_matrix_hypervisor.py"
         ]
         
         for module in required_modules:
