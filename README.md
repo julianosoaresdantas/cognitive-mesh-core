@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌐 Cognitive Autonomous Mesh & Neural Grid (CAMNG) v8.0
-### Federated AI, JIT Meta-Programming, Post-Quantum Tunnels, Self-Healing, Swarm Resonance & Hyper-Dimensional Computing
+# 🌐 Cognitive Autonomous Mesh & Neural Grid (CAMNG) v9.0
+### Omni-Neural Singularity Core, Federated AI, JIT Meta-Programming, Post-Quantum Tunnels & Hyper-Dimensional Computing
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Linux IPC](https://img.shields.io/badge/Linux-POSIX%20mmap-orange.svg)](https://www.kernel.org/)
@@ -14,10 +14,10 @@
 ## 📖 About the Project / Sobre o Projeto
 
 **[EN]**  
-**CAMNG v8.0 (Singularity Matrix)** represents the absolute zenith of autonomous platform engineering (Aug 2026). It unifies concurrent neural agents, decentralized federated learning, runtime JIT bytecode injection, lattice-based post-quantum cryptography, continuous GRC auditing, stochastic self-healing, non-linear swarm resonance, and vector symbolic hyper-dimensional computing.
+**CAMNG v9.0 (Singularity Core)** represents the final evolutionary milestone in autonomous platform engineering (Aug 2026). It unifies topological quantum wave collapse, concurrent neural agents, decentralized federated learning, runtime JIT bytecode injection, lattice-based post-quantum cryptography, continuous GRC auditing, stochastic self-healing, swarm resonance, and hyper-dimensional computing into a single unified fabric.
 
 **[PT-BR]**  
-O **CAMNG v8.0 (Singularity Matrix)** representa o zênite absoluto da engenharia de plataformas autônomas. Unifica agentes neurais concorrentes, aprendizado federado, injeção JIT de bytecode, criptografia pós-quântica, auditoria GRC contínua, autocura estocástica, ressonância de enxame e computação hiper-dimensional baseada em símbolos vetoriais (VSA).
+O **CAMNG v9.0 (Singularity Core)** representa o marco evolutivo definitivo na engenharia de plataformas autônomas. Unifica o colapso de onda quântica topológica, agentes neurais concorrentes, aprendizado federado, injeção JIT, criptografia pós-quântica, auditoria GRC, autocura, ressonância de enxame, computação hiper-dimensional e singularidade sintética em uma malha unificada.
 
 ---
 
@@ -33,6 +33,7 @@ O **CAMNG v8.0 (Singularity Matrix)** representa o zênite absoluto da engenhari
 | `self_healing_chaos_engine.py` | Stochastic chaos injection and autonomous self-recovery. |
 | `swarm_resonance_core.py` | Non-linear phase synchronization and swarm consensus. |
 | `hyperdimensional_core.py` | Vector symbolic architectures & holographic memory binding. |
+| `singularity_core.py` | Topological quantum wave collapse & universal synthetic fabric. |
 
 ---
 
@@ -50,6 +51,7 @@ python3 src/federated_ai_core.py
 python3 src/self_healing_chaos_engine.py
 python3 src/swarm_resonance_core.py
 python3 src/hyperdimensional_core.py
+python3 src/singularity_core.py
 
 📄 License
 
