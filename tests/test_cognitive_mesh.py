@@ -15,7 +15,8 @@ class TestCognitiveMeshEcosystem(unittest.TestCase):
             "swarm_resonance_core.py",
             "hyperdimensional_core.py",
             "singularity_core.py",
-            "omega_singularity_mesh.py"
+            "omega_singularity_mesh.py",
+            "telemetry_observer_core.py"
         ]
         
         for module in required_modules:
