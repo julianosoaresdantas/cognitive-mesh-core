@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌐 Cognitive Autonomous Mesh & Neural Grid (CAMNG) v9.0
-### Omni-Neural Singularity Core, Federated AI, JIT Meta-Programming, Post-Quantum Tunnels & Hyper-Dimensional Computing
+# 🌐 Cognitive Autonomous Mesh & Neural Grid (CAMNG) v10.0
+### Omega Singularity Grid, Omni-Neural Core, Federated AI, JIT Meta-Programming, Post-Quantum Tunnels & Hyper-Dimensional Computing
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Linux IPC](https://img.shields.io/badge/Linux-POSIX%20mmap-orange.svg)](https://www.kernel.org/)
@@ -14,10 +14,10 @@
 ## 📖 About the Project / Sobre o Projeto
 
 **[EN]**  
-**CAMNG v9.0 (Singularity Core)** represents the final evolutionary milestone in autonomous platform engineering (Aug 2026). It unifies topological quantum wave collapse, concurrent neural agents, decentralized federated learning, runtime JIT bytecode injection, lattice-based post-quantum cryptography, continuous GRC auditing, stochastic self-healing, swarm resonance, and hyper-dimensional computing into a single unified fabric.
+**CAMNG v10.0 (Omega Grid)** represents the ultimate evolution of autonomous platform engineering. It unifies topological zero-copy memory fabrics, omega coherence synchronization, concurrent neural agents, federated learning, runtime JIT injection, post-quantum cryptography, continuous GRC, stochastic self-healing, swarm resonance, and hyper-dimensional computing.
 
 **[PT-BR]**  
-O **CAMNG v9.0 (Singularity Core)** representa o marco evolutivo definitivo na engenharia de plataformas autônomas. Unifica o colapso de onda quântica topológica, agentes neurais concorrentes, aprendizado federado, injeção JIT, criptografia pós-quântica, auditoria GRC, autocura, ressonância de enxame, computação hiper-dimensional e singularidade sintética em uma malha unificada.
+O **CAMNG v10.0 (Omega Grid)** representa a evolução definitiva da engenharia de plataformas autônomas. Unifica tecidos de memória zero-copy topológicos, sincronização de coerência ômega, agentes neurais concorrentes, aprendizado federado, injeção JIT, criptografia pós-quântica, GRC contínuo, autocura estocástica, ressonância de enxame e computação hiper-dimensional.
 
 ---
 
@@ -34,6 +34,7 @@ O **CAMNG v9.0 (Singularity Core)** representa o marco evolutivo definitivo na e
 | `swarm_resonance_core.py` | Non-linear phase synchronization and swarm consensus. |
 | `hyperdimensional_core.py` | Vector symbolic architectures & holographic memory binding. |
 | `singularity_core.py` | Topological quantum wave collapse & universal synthetic fabric. |
+| `omega_singularity_mesh.py` | Omega coherence synchronization & topological zero-copy fabric. |
 
 ---
 
@@ -52,6 +53,7 @@ python3 src/self_healing_chaos_engine.py
 python3 src/swarm_resonance_core.py
 python3 src/hyperdimensional_core.py
 python3 src/singularity_core.py
+python3 src/omega_singularity_mesh.py
 
 📄 License
 
