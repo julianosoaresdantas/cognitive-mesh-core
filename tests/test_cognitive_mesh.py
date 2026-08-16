@@ -18,8 +18,8 @@ class TestCognitiveMeshEcosystem(unittest.TestCase):
             "omega_singularity_mesh.py",
             "telemetry_observer_core.py",
             "hyper_matrix_hypervisor.py",
-            "omega_singularity_mesh.py",
-            "quantum_synthetic_governor.py"
+            "quantum_synthetic_governor.py",
+            "holographic_singularity_mesh.py"
         ]
         
         for module in required_modules:
