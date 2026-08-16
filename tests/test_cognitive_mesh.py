@@ -20,7 +20,8 @@ class TestCognitiveMeshEcosystem(unittest.TestCase):
             "hyper_matrix_hypervisor.py",
             "quantum_synthetic_governor.py",
             "holographic_singularity_mesh.py",
-            "quantum_metamorphic_governor.py"
+            "quantum_metamorphic_governor.py",
+            "omega_consciousness_core.py"
         ]
         
         for module in required_modules:
